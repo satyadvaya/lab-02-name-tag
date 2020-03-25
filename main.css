@@ -1,0 +1,20 @@
+section {
+    width: 200px;
+    height: 75px;
+    background-color: red;
+    border: 1px solid steelblue;
+    border-radius: 3px;
+    padding: 10px;
+}
+
+.hello {
+
+    color:white;
+    font-size: 25pt;
+    font-family: sans-serif;
+}
+.mynameis {
+    color:black;
+    font-size: 10pt;
+    font-family: sans-serif;
+}
